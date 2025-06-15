@@ -16,13 +16,3 @@
 
 // Django admin Panel:- 
     http://127.0.0.1:8000/admin/login/?next=/admin/
-
-    // Databasse hosting 
-    https://railway.com/project/0a7acbce-42aa-4424-91b2-530824a4cf4f/service/bb268d1b-8100-444b-ad18-097ebe385e09/variables?environmentId=b65c5125-67b4-4239-9f7f-8cca7a7630d9
-
-    // OpenAI API Key
-    URL:- https://platform.openai.com/settings/organization/api-keys
-
-    // Assembly AI API Key
-    URL:- https://platform.openai.com/settings/organization/api-keys
-
